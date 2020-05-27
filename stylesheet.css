@@ -1,6 +1,6 @@
 @font-face  {
 	font-family: "ITC Avant Garde";
-	src: "ITC Avant Garde Gothic Medium.otf";
+	src: url("ITC Avant Garde Gothic Medium.otf");
 }
 body {
 	    font-size: 1.2em;

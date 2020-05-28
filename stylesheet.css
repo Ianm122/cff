@@ -69,6 +69,10 @@ ul li  {
 	display: inline;
 }
 
+#intro a:link  {
+	text-decoration: none;
+}
+
 #c {
 	color: red;
 	

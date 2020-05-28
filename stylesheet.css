@@ -96,7 +96,7 @@ ul li  {
 	#intro { font-size: 300%;
 	}
 }
-@media screen and (min-width: 701px) and (max-width: 1200px) {
+@media screen and (min-width: 701px) and (max-width: 1250px) {
 	#intro { font-size: 600%;
 	}
 }

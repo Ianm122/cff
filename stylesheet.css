@@ -34,6 +34,10 @@ p  {
 	  padding: 10px;
 }  
 
+a:link  {
+	text-align: center;
+}
+
 ul  {
 	padding: 5%;
 	text-align:	center;
@@ -60,5 +64,7 @@ ul li a:link {
 #intro a:link {
 	font-color: #ffffff;
 }
+
+
 
 

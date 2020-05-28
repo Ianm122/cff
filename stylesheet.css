@@ -61,15 +61,15 @@ ul li  {
 	display: inline;
 }
 
-#c {
+h1.c {
 	color: blue 
 }
 
-#f {
+h1.f {
 	color: yellow
 }
 
-#ff {
+h1.ff {
 	color: red
 }
 	

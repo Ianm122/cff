@@ -61,6 +61,7 @@ ul li  {
 #intro {
 	display:  inline;
 	font-size: 1000%;
+	background: url(media/images/city.png)
 }
 
 #intro, h1  {

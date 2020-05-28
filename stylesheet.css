@@ -60,7 +60,7 @@ ul li  {
 
 #intro {
 	display:  inline;
-	font-size: 1000%;
+	font-size: 900%;
 	background: url(media/images/"city.png");
 	background-size: cover;
 }
@@ -85,10 +85,14 @@ ul li  {
 }
 
 @media screen and (max-width: 480px) {
-	#intro { font-size: 200%;
+	#intro { font-size: 100%;
 	}
 }
-@media screen and (min-width: 481px) and (max-width: 800px) {
+@media screen and (min-width: 481px) and (max-width: 700px) {
+	#intro { font-size: 300%;
+	}
+}
+@media screen and (min-width: 701px) and (max-width: 1050px) {
 	#intro { font-size: 600%;
 	}
 }

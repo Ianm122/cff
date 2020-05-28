@@ -53,12 +53,12 @@ ul li  {
 }
 
 #intro {
-	color: #ffffff;
-	font-size: 1000%;
+		font-size: 1000%;
+		display: inline;
 }
 
 #intro a:link {
-	color: #ffffff;
+	color: yellow;
 }
 
 #intro c {

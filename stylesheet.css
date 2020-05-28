@@ -53,22 +53,22 @@ ul li  {
 }
 
 #intro {
-	display: inline;
+	display: block inline;
 	font-size: 1000%;
 }
 
 #c {
-	color: blue 
+	color: blue;
 	font-size: 1000%;
 }
 
 #f {
-	color: yellow
+	color: yellow;
 	font-size: 1000%;
 }
 
 #ff {
-	color: red
+	color: red;
 	font-size: 1000%;
 }
 	

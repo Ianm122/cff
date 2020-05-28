@@ -57,7 +57,7 @@ ul li  {
 	font-size: 1000%;
 }
 
-#intro.h1  {
+#intro, h1  {
 	display: inline;
 }
 

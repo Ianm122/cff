@@ -34,8 +34,9 @@ p  {
 	  padding: 10px;
 }  
 
-.nav {
+class.nav {
 	text-align: center;
+	color: black;
 }
 	
 }

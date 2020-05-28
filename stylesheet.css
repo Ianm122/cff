@@ -57,19 +57,19 @@ ul li  {
 		
 }
 
-#intro.h1  {
+#intro {
 	display: inline;
 }
 
-h1.c {
+#c {
 	color: blue 
 }
 
-h1.f {
+#f {
 	color: yellow
 }
 
-h1.ff {
+#ff {
 	color: red
 }
 	

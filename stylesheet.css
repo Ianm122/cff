@@ -53,12 +53,8 @@ ul li  {
 }
 
 #intro {
-		font-size: 1000%;
-		
-}
-
-#intro {
 	display: inline;
+	font-size: 1000%;
 }
 
 #c {

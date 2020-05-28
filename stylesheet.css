@@ -48,17 +48,17 @@ ul li  {
 }
 
 ul li a:link {
-		color: black;
+		color: #black;
 		
 }
 
 #intro {
-	font-color: white;
+	font-color: #ffffff;
 	font-size: 400%;
 }
 
 #intro a:link {
-	font-color: white;
+	font-color: #ffffff;
 }
 
 

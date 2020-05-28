@@ -36,6 +36,7 @@ p  {
 
 a:link  {
 	text-align: center;
+	color: white;
 }
 
 ul  {
@@ -49,11 +50,6 @@ ul li  {
 	padding: 30px;
 	
 
-}
-
-ul li a:link {
-		color: #black;
-		
 }
 
 #intro {

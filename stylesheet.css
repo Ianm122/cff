@@ -58,7 +58,7 @@ ul li  {
 
 }
 
-#intro, body {
+#intro {
 	display:  inline;
 	font-size: 900%;
 	background: url("media/images/city.png");

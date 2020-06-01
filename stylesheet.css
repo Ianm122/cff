@@ -61,7 +61,7 @@ ul li  {
 #intro {
 	display:  inline;
 	font-size: 900%;
-	background: url(media/images/"city.png");
+	background: url(media/images/city.png);
 	background-size: cover;
 }
 
@@ -100,6 +100,8 @@ ul li  {
 	#intro { font-size: 600%;
 	}
 }
+
+
 	
 
 

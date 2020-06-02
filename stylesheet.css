@@ -89,12 +89,12 @@ ul li  {
 }
 
 #tour    {
-	  margin: 5%;
-	  padding: 5%;
+	  margin: 10%;
+	  padding: 10%;
 }
 
 #tour, h2  {
-	margin: 20px 0px 0px 0px}
+	margin: 10% 5% 10% 5%}
 
 @media screen and (max-width: 480px) {
 	margin: 20%;

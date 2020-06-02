@@ -15,8 +15,8 @@ body {
         }
 h1  {
 	   
-	   padding: 10px;
-	   margin: 30px;
+	   padding: 20px;
+	   margin: 40px;
 	   text-align:	center;
 	   font-size: 280%;
 	   font-family: "ITC Avant Garde";
@@ -25,13 +25,13 @@ h1  {
 
 h2  {
 	   
-	   padding: 10px;
-	   margin: 10px;	   
+	   padding: 20px;
+	   margin: 20px;	   
 	   
 }
 
 p  {
-	 padding: 10px;
+	 padding: 20px;
 }  
 
 class.nav {

@@ -87,6 +87,9 @@ ul li  {
 	
 }
 
+#tour {margin: 20%;
+}
+
 @media screen and (max-width: 480px) {
 	#intro { font-size: 100%;
 	}

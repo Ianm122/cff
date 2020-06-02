@@ -87,7 +87,8 @@ ul li  {
 	
 }
 
-#tour {margin: 20%;
+#tour h1 {margin: 20%;
+	  padding: 20;
 }
 
 @media screen and (max-width: 480px) {

@@ -88,10 +88,13 @@ ul li  {
 }
 
 #tour h1 {margin: 20%;
-	  padding: 20;
+	  padding: 20px;
 }
 
 @media screen and (max-width: 480px) {
+	margin: 20%;
+	padding: 20%;
+	
 	#intro { font-size: 100%;
 	}
 }

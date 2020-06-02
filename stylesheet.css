@@ -106,7 +106,12 @@ ul li  {
 	#intro { font-size: 100%;
 	}
 	
-	#tourdates { display: block
+	#tour { h1, h2 margin-top: 10%;
+	}
+	
+	#tourdates { 
+		
+		display: block;
 	}
 }
 @media screen and (min-width: 481px) and (max-width: 700px) {

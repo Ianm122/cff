@@ -2,6 +2,7 @@
 	font-family: "Monofred UL";
 	src: url("monofredul.ttf");
 }
+
 body {
 	    font-size: 1.2em;
             background-color: #ffe0bd;
@@ -9,24 +10,20 @@ body {
             padding: 5px;
 	    font-family: "Monofred UL";
 	    text-align: center;
-	    color: #ffe0bd;
-         
-	    
-        }
+	    color: #ffe0bd; 
+}
+
+ul {
+	list-style-type: none;
+}
+
 h1  {
 	   
 	   padding: 10px;
 	   margin: 10px;
 	   text-align:	center;
 	   font-size: 280%;
-	  
-
 }
-
-	   
-	   
-
-
 
 class.nav {
 	text-align: center;
